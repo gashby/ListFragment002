@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ListFragment002</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="student_rl_attendance_history">Student Attendance History</string>
+    <string name="student_details">Student Details</string>
+    <string name="student_rl_interviews">Student Interview</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
